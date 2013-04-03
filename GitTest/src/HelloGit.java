@@ -14,6 +14,7 @@ public class HelloGit {
 		
 		//保守ー
 		//更に保守
+		//新機能追加３
 	}
 
 }
