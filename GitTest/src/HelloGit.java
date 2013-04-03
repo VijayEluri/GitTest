@@ -12,7 +12,7 @@ public class HelloGit {
 		
 		//新機能追加２
 		
-
+		//保守ー
 	}
 
 }
